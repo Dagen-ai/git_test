@@ -1,0 +1,13 @@
+#Logs
+*.log
+
+# Dummy file
+dummy.md
+#Logs
+*.log
+
+# Dummy file
+dummy.md
+*.swp
+# Dependency directories
+node_modules/
